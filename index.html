@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="./js/jquery.js"></script>
+
+  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="css/tab.css">
+  <script type="text/javascript" src="./js/lozad.js"></script>
+
+
+</head>
+
+<body>
+  <div class="tab-panel">
+  <div class="tab">
+    <sp-action-button class="tab-button">Engine</sp-action-button>
+    <div class="tab-content">
+      <div class="panelcontent">
+        <sp-body id="panelsearch">
+          <sp-textfield id="txtKeyword"></sp-textfield>
+          <sp-action-button id="btnSearch">
+            <sp-icon name="ui:Magnifier"></sp-icon>
+          </sp-action-button>
+        </sp-body>
+
+        <div id="enginepanel">
+          <sp-dropdown id="searchEngine">
+            <sp-menu slot="options">
+              <sp-menu-item>DuckGo</sp-menu-item>
+              <sp-menu-item>Google</sp-menu-item>
+              <sp-menu-item>Pexels</sp-menu-item>
+            </sp-menu>
+          </sp-dropdown>
+          <sp-dropdown id="serpAPI" style="width: auto;">
+            <sp-menu id="serpAPIoptions" slot="options">
+
+            </sp-menu>
+          </sp-dropdown>
+          <sp-action-button id="btnAPI" style="width: auto;">
+            100
+          </sp-action-button>
+
+        </div>
+        <div id="panelcontainer">
+
+         
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="tab">
+    <sp-action-button class="tab-button">TextureLab</sp-action-button>
+    <div class="tab-content tab-content-active">
+      <div class="texturelab">
+        <div class="tl-menu-panel"></div>
+        <div class="tl-content-panel"></div>
+      </div>
+    </div>
+  </div>
+</div>
+  <div class="panelloading">
+    <img src="./icons/muah.gif" alt="">
+  </div>
+
+
+  <script src="/js/index.js"></script>
+</body>
+
+</html>

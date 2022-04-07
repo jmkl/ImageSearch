@@ -1,0 +1,67 @@
+.tab-panel {
+    margin-top: 15px;
+    display: block;
+    min-height: 100vh;
+  
+   
+
+}
+
+.tab {
+
+
+
+    height: 100%;
+
+
+}
+
+.tab-button{
+    width: 100%;
+    background-color: transparent;
+    border-radius:20px;
+    text-align: end;
+}
+
+.tab-content {
+    width: 100%;
+    height: calc(100vh - 40px);
+    display: none;
+   
+}
+
+.tab-content-active {
+    display: block;
+    width: 100%;
+    
+}
+.texturelab{
+    height: 100%;
+    display: block;
+    
+    overflow: auto;
+    
+}
+
+.tl-menu-panel{
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: center;
+
+}
+.tl-content-panel{
+    display: block;
+}
+.tl-content-panel img{
+}
+.tl-btn{
+flex: none 1 auto;
+}
+.tl-image{
+    cursor: pointer;
+    width: 50%;    
+    height: 50%;
+    object-fit: contain;
+    flex: none 1 auto;
+    
+}

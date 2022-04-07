@@ -1,0 +1,932 @@
+{
+    "search_metadata": {
+      "id": "624a36855f2203c297d24005",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3a277e7831d92e76/624a36855f2203c297d24005.json",
+      "created_at": "2022-04-04 00:06:29 UTC",
+      "processed_at": "2022-04-04 00:06:29 UTC",
+      "google_url": "https://www.google.co.id/search?q=rocky+gerung&oq=rocky+gerung&uule=w+CAIQICIZSmFrYXJ0YSxKYWthcnRhLEluZG9uZXNpYQ&hl=id&gl=id&num=30&tbm=isch&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/3a277e7831d92e76/624a36855f2203c297d24005.html",
+      "total_time_taken": 2.31
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "rocky gerung",
+      "location_requested": "Jakarta, Jakarta, Indonesia",
+      "location_used": "Jakarta,Jakarta,Indonesia",
+      "google_domain": "google.co.id",
+      "hl": "id",
+      "gl": "id",
+      "num": "30",
+      "device": "desktop",
+      "tbm": "isch"
+    },
+    "search_information": {
+      "image_results_state": "Results for exact spelling",
+      "query_displayed": "rocky gerung"
+    },
+    "images_results": [
+      {
+        "position": 1,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d8bc420ef3141a2ea5ca32227a1dde2dc2410cc3f456bacc96.jpeg",
+        "source": "fajar.co.id",
+        "title": "Rocky Gerung: Bilang Aja Kami Gagal Membahagiakan Rakyat, Gagal  Mempertahankan Harga Keekonomian karena Terpaksa Mengiyakan Kepentingan  Oligarki - FAJAR",
+        "link": "https://fajar.co.id/2022/03/31/rocky-gerung-bilang-aja-kami-gagal-membahagiakan-rakyat-gagal-mempertahankan-harga-keekonomian-karena-terpaksa-mengiyakan-kepentingan-oligarki/",
+        "original": "https://fajar.co.id/wp-content/uploads/2020/12/rocky-gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 2,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c0a8394f043743534bb74d726d75ec9a4.jpeg",
+        "source": "suara.com",
+        "title": "Wacana Rakyat Urunan Buat Bangun IKN, Rocky Gerung Menohok Bilang Begini",
+        "link": "https://www.suara.com/news/2022/03/29/221401/wacana-rakyat-urunan-buat-bangun-ikn-rocky-gerung-menohok-bilang-begini",
+        "original": "https://media.suara.com/pictures/336x188/2022/03/10/70594-rocky-gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 3,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d82042cb53d318d32f4d92ed1aa7f76d35b420a4638e9734b5.jpeg",
+        "source": "fajar.co.id",
+        "title": "Apdesi Deklarasi Jokowi 3 Periode, Rocky Gerung Ungkap Dua Sosok Ini  Dalangnya - FAJAR",
+        "link": "https://fajar.co.id/2022/03/31/apdesi-deklarasi-jokowi-3-periode-rocky-gerung-ungkap-dua-sosok-ini-dalangnya/",
+        "original": "https://fajar.co.id/wp-content/uploads/2022/03/2953408519.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 4,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d8857fb20698051171805d54d2fb3c9a019cdd7b45298e76dc.jpeg",
+        "source": "wartaekonomi.co.id",
+        "title": "Telak! Respons Apdesi, Rocky Gerung Hajar Habis Jokowi Soal 3 Periode",
+        "link": "https://wartaekonomi.co.id/read404601/telak-respons-apdesi-rocky-gerung-hajar-habis-jokowi-soal-3-periode",
+        "original": "https://foto.wartaekonomi.co.id/files/arsip_foto_2021_06_14/rocky_gerung_120527_small.jpg",
+        "is_product": false
+      },
+      {
+        "position": 5,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d8681d652268acd32d0681a6d29035ab27ee6c2c59719fcc2b.jpeg",
+        "source": "wartaekonomi.co.id",
+        "title": "Minta Jokowi Akui Dosa dan Minta Maaf, Omongan Rocky Gerung Dahsyat!",
+        "link": "https://wartaekonomi.co.id/read404615/minta-jokowi-akui-dosa-dan-minta-maaf-omongan-rocky-gerung-dahsyat",
+        "original": "https://foto.wartaekonomi.co.id/files/arsip_foto_2021_06_14/rocky_gerung_120734_small.jpg",
+        "is_product": false
+      },
+      {
+        "position": 6,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d81096dba06e8e9eb9d7e068ba1f1556743f6e2f2ece3168dc.jpeg",
+        "source": "wartaekonomi.co.id",
+        "title": "Kalau Kata Rocky Gerung PKS Itu Partai....",
+        "link": "https://wartaekonomi.co.id/read404252/kalau-kata-rocky-gerung-pks-itu-partai",
+        "original": "https://foto.wartaekonomi.co.id/files/arsip_foto_2021_10_18/rocky_gerung_121053_big.jpg",
+        "is_product": false
+      },
+      {
+        "position": 7,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d85c66cbeb3f726b2d6ac59b701c5eb1e822e1d6ee3520983c.jpeg",
+        "source": "viva.co.id",
+        "title": "Rocky Gerung: PKS Itu Partai Kehendak Sejarah",
+        "link": "https://www.viva.co.id/berita/politik/1462081-rocky-gerung-pks-itu-partai-kehendak-sejarah",
+        "original": "https://thumb.viva.co.id/media/frontend/thumbs3/2022/03/30/62436a7066016-pengamat-politik-rocky-gerung-saat-acara-bimtek-anggota-legislatif-pks_665_374.jpg",
+        "is_product": true
+      },
+      {
+        "position": 8,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d8932578a88423ebb36b0c2e4bc3051dda16aa06975151b115.jpeg",
+        "source": "news.detik.com",
+        "title": "Rocky Gerung Vs Sentul City hingga Tudingan Spekulan Berdasi",
+        "link": "https://news.detik.com/berita/d-5717423/rocky-gerung-vs-sentul-city-hingga-tudingan-spekulan-berdasi",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2019/04/23/d401674c-f59b-4a4b-b3b6-e0183fb0e574_169.jpeg?w=700&q=90",
+        "is_product": false
+      },
+      {
+        "position": 9,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d8b35a61a34c26d6d3978d5350f69cb1f91b7da40ec0b46acc.jpeg",
+        "source": "isubogor.pikiran-rakyat.com",
+        "title": "Soroti Foto Jokowi dan Luhut yang Tampak Muram, Rocky Gerung: Gak Ada Masa  Depan... - Isu Bogor",
+        "link": "https://isubogor.pikiran-rakyat.com/gaduh/pr-454087312/soroti-foto-jokowi-dan-luhut-yang-tampak-muram-rocky-gerung-gak-ada-masa-depan",
+        "original": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/03/27/1695472464.jpg",
+        "is_product": false
+      },
+      {
+        "position": 10,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d89255dd5f0a061457e42125b7378795b6d9ce7150ed84571d.jpeg",
+        "source": "suara.com",
+        "title": "Mobilisasi Kepala Desa Demi Jokowi 3 Periode Batal, Rocky Gerung: Dana  Belum Cair",
+        "link": "https://www.suara.com/news/2022/03/30/190645/mobilisasi-kepala-desa-demi-jokowi-3-periode-batal-rocky-gerung-dana-belum-cair",
+        "original": "https://media.suara.com/pictures/970x544/2021/04/28/37389-rocky-gerung-soal-munarman.jpg",
+        "is_product": false
+      },
+      {
+        "position": 11,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c27ea8155130d909146ecabb1fb93c63e.jpeg",
+        "source": "id.wikipedia.org",
+        "title": "Rocky Gerung - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+        "link": "https://id.wikipedia.org/wiki/Rocky_Gerung",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rocky_Gerung%2C_Sorgemagz.com_-_Rocky_Gerung_%22Perempuan_Punya_Pengetahuan_Riil_Tentang_Keadilan%22.jpg/220px-Rocky_Gerung%2C_Sorgemagz.com_-_Rocky_Gerung_%22Perempuan_Punya_Pengetahuan_Riil_Tentang_Keadilan%22.jpg",
+        "is_product": false
+      },
+      {
+        "position": 12,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c35524c444eaf7aad76eb8e533235ae3c.jpeg",
+        "source": "cnnindonesia.com",
+        "title": "Adu Kuat Bukti Kepemilikan Tanah Rocky Gerung Vs Sentul City",
+        "link": "https://www.cnnindonesia.com/nasional/20210921070044-12-697081/adu-kuat-bukti-kepemilikan-tanah-rocky-gerung-vs-sentul-city",
+        "original": "https://akcdn.detik.net.id/visual/2019/01/09/adf96dbb-260b-49cc-b0be-2063e01ebfe9_169.jpeg?w=650",
+        "is_product": false
+      },
+      {
+        "position": 13,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c870ce5a97b5eb74cd8e67c77a2ae952c.jpeg",
+        "source": "nasional.sindonews.com",
+        "title": "Rocky Gerung: Satire Ridwan Kamil Tunjukkan Kelas Calon Pemimpin Nasional",
+        "link": "https://nasional.sindonews.com/read/597503/12/rocky-gerung-satire-ridwan-kamil-tunjukkan-kelas-calon-pemimpin-nasional-1636711907",
+        "original": "https://pict-c.sindonews.net/dyn/620/pena/news/2021/11/12/12/597503/rocky-gerung-satire-ridwan-kamil-tunjukkan-kelas-calon-pemimpin-nasional-wgk.jpg",
+        "is_product": false
+      },
+      {
+        "position": 14,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9cc2bb4bbafb1cb65f3ff0f25939f2d20e.jpeg",
+        "source": "news.detik.com",
+        "title": "Penolak Presidential Threshold: Rocky Gerung, Rhoma Irama, hingga Yusril",
+        "link": "https://news.detik.com/berita/d-5891109/penolak-presidential-threshold-rocky-gerung-rhoma-irama-hingga-yusril",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2018/04/20/6596ec8c-0411-446f-a1b7-e6b895a79737_43.jpeg?w=700&q=90",
+        "is_product": false
+      },
+      {
+        "position": 15,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9ccc47d3fe0294ae7d5dd35de3777f2cae.jpeg",
+        "source": "bbc.com",
+        "title": "Dugaan penodaan agama Rocky Gerung: 'Berdebatlah, jangan dipidanakan' - BBC  News Indonesia",
+        "link": "https://www.bbc.com/indonesia/indonesia-47053376",
+        "original": "https://ichef.bbci.co.uk/news/1024/branded_indonesia/BEFB/production/_105419884_rockygeruuung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 16,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c0ee0ed33a856b4db31736ff312d7d98a.jpeg",
+        "source": "suara.com",
+        "title": "Rocky Gerung: Kalau IKN Enggak Selesai 2024, Jokowi Bisa Jadi Tiga Periode",
+        "link": "https://www.suara.com/news/2022/01/23/175509/rocky-gerung-kalau-ikn-enggak-selesai-2024-jokowi-bisa-jadi-tiga-periode",
+        "original": "https://media.suara.com/pictures/970x544/2021/09/15/65974-rocky-gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 17,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9cdfe88b4344d03478e92640888f352902.jpeg",
+        "source": "harianhaluan.com",
+        "title": "Soal Dukungan 3 Periode dari APDESI, Rocky Gerung Sebut Presiden Meniru  Pekerjaan Orde Baru - Harian Haluan",
+        "link": "https://www.harianhaluan.com/politik/pr-103077805/soal-dukungan-3-periode-dari-apdesi-rocky-gerung-sebut-presiden-meniru-pekerjaan-orde-baru",
+        "original": "https://assets.promediateknologi.com/crop/74x49:746x470/x/photo/2021/10/16/1084683114.jpg",
+        "is_product": true
+      },
+      {
+        "position": 18,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c59254ba3e8870731d90ddae17a107d3b.jpeg",
+        "source": "suaramerdeka.com",
+        "title": "Rocky Gerung Sebut Sentul City Rampas Tanah Warga, Tidak Izin Melakukan  Pengukuran - Suara Merdeka",
+        "link": "https://www.suaramerdeka.com/nasional/pr-041248641/rocky-gerung-sebut-sentul-city-rampas-tanah-warga-tidak-izin-melakukan-pengukuran",
+        "original": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2021/09/21/3388169524.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 19,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c1f931960ea2477ed416eac7501f038da.jpeg",
+        "source": "liputan6.com",
+        "title": "Politikus PDIP Bakal Laporkan Rocky Gerung yang Sebut Jokowi Tak Paham  Pancasila - News Liputan6.com",
+        "link": "https://www.liputan6.com/news/read/4126895/politikus-pdip-bakal-laporkan-rocky-gerung-yang-sebut-jokowi-tak-paham-pancasila",
+        "original": "https://cdn0-production-images-kly.akamaized.net/mJAPtahjVx6ZnWXRgk5JFrce1wA=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2785515/original/000024900_1555999012-Tompi-dan-Rocky-Gerung-Menjadi-Saksi-Persidangan-Ratna-Sarumpaet8.jpg",
+        "is_product": false
+      },
+      {
+        "position": 20,
+        "thumbnail": "https://serpapi.com/searches/624a36855f2203c297d24005/images/e69436ff18d617d87115def075279b9c26bde6d8bd5fe3685a2b49f045ce006e.jpeg",
+        "source": "youtube.com",
+        "title": "Kritik Keras Rocky Gerung kepada Pemerintahan Jokowi soal 'Hoax' di ILC -  YouTube",
+        "link": "https://www.youtube.com/watch?v=nMPOK1vGy8s",
+        "original": "https://i.ytimg.com/vi/nMPOK1vGy8s/hqdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 21,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfWyIihOa5_Rd1fhHr2d37VWuPk58jsrG_RQ&usqp=CAU",
+        "source": "news.detik.com",
+        "title": "Rocky Gerung Jadi Ahli Meringankan Munarman di Persidangan",
+        "link": "https://news.detik.com/berita/d-5964972/rocky-gerung-jadi-ahli-meringankan-munarman-di-persidangan",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2021/12/07/rocky-gerung-8_169.jpeg?w=1200",
+        "is_product": false
+      },
+      {
+        "position": 22,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRXB_HM84p6F9zoGWdlb-QoRkP1zRD_CgbQ&usqp=CAU",
+        "source": "prfmnews.pikiran-rakyat.com",
+        "title": "Soal Haris Azhar dan Fatia Tersangka, Rocky Gerung Sebut Reputasi Luhut  Bisa Hancur - PRFM News",
+        "link": "https://prfmnews.pikiran-rakyat.com/nasional/pr-134038500/soal-haris-azhar-dan-fatia-tersangka-rocky-gerung-sebut-reputasi-luhut-bisa-hancur",
+        "original": "https://assets.pikiran-rakyat.com/crop/25x42:1080x617/x/photo/2022/03/08/3783346093.jpg",
+        "is_product": false
+      },
+      {
+        "position": 23,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmqbUoppuCaK8X_-_ZbspTWDmtOSWy9v95Q&usqp=CAU",
+        "source": "nasional.sindonews.com",
+        "title": "Rocky Gerung Bayangkan Prabowo soal Presidential Threshold Nol Persen",
+        "link": "https://nasional.sindonews.com/read/645629/12/rocky-gerung-bayangkan-prabowo-soal-presidential-threshold-nol-persen-1641099699",
+        "original": "https://pict-c.sindonews.net/dyn/850/pena/news/2022/01/02/12/645629/rocky-gerung-bayangkan-prabowo-soal-presidential-threshold-nol-persen-xie.jpg",
+        "is_product": false
+      },
+      {
+        "position": 24,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1gAWGrx0qADu5s-XAJV_nm-YDJkLycW-ZA&usqp=CAU",
+        "source": "kabar24.bisnis.com",
+        "title": "Rocky Gerung: Insiden Wadas Buka Kedok Ganjar yang Tidak Pro-Lingkungan dan  Warga - Kabar24 Bisnis.com",
+        "link": "https://kabar24.bisnis.com/read/20220210/15/1498813/rocky-gerung-insiden-wadas-buka-kedok-ganjar-yang-tidak-pro-lingkungan-dan-warga",
+        "original": "https://images.bisnis-cdn.com/posts/2022/02/10/1498813/gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 25,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxY5WvmB7qdKCpB0OwSqPOs7HRBrT_Z3hQqg&usqp=CAU",
+        "source": "merdeka.com",
+        "title": "8 Potret Isi Rumah Rocky Gerung, Lorong Bukunya Curi Perhatian | merdeka.com",
+        "link": "https://www.merdeka.com/trending/8-potret-isi-rumah-rocky-gerung-ada-lorong-buku-hingga-tempat-olahraga-unik.html",
+        "original": "http://klimg.com/merdeka.com/i/w/news/2020/07/22/1200920/540x270/8-potret-isi-rumah-rocky-gerung-ada-lorong-buku-hingga-tempat-olahraga-unik-rev-1.jpg",
+        "is_product": false
+      },
+      {
+        "position": 26,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYJ7qLyK9n1F0cPa98CtBE_Ltv5WiofyTXg&usqp=CAU",
+        "source": "news.detik.com",
+        "title": "Rocky Gerung: Ngabalin Senang Betul Saya Mau Digusur!",
+        "link": "https://news.detik.com/berita/d-5730376/rocky-gerung-ngabalin-senang-betul-saya-mau-digusur",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2019/06/18/029550c4-7d84-4f04-9213-70de92bdbd77_169.jpeg?w=700&q=90",
+        "is_product": false
+      },
+      {
+        "position": 27,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBS16yb3qj8mLz5-UsKEYX1kQOP88mnMdrZQ&usqp=CAU",
+        "source": "cnnindonesia.com",
+        "title": "Rocky Gerung dan Sentul City Damai, Haris Azhar Buka Suara",
+        "link": "https://www.cnnindonesia.com/nasional/20211012151333-12-706683/rocky-gerung-dan-sentul-city-damai-haris-azhar-buka-suara",
+        "original": "https://akcdn.detik.net.id/visual/2019/03/21/8df63cfd-d3f2-4634-8695-99bf7f2bc4fa_169.jpeg?w=650",
+        "is_product": false
+      },
+      {
+        "position": 28,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdJCCdYUx62g4rJGBqImWrhm9AgNa1UG2AA&usqp=CAU",
+        "source": "m.tribunnews.com",
+        "title": "Rocky Gerung Usulkan Ibu Kota Baru Bernama Jokowikarta, Fadli Zon Lebih  Setuju Pakai Nama Jokowi - Tribunnews.com Mobile",
+        "link": "https://m.tribunnews.com/nasional/2022/01/19/rocky-gerung-usulkan-ibu-kota-baru-bernama-jokowikarta-fadli-zon-lebih-setuju-pakai-nama-jokowi",
+        "original": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/rocky-gerung-s-tw8ty63.jpg",
+        "is_product": false
+      },
+      {
+        "position": 29,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNs4ew_sVWD-5onghiMFMY7plcTvFoZOWhmg&usqp=CAU",
+        "source": "suara.com",
+        "title": "Rocky Gerung: KPK Itu Tidak Tewas karena Covid-19, Melainkan Stupid",
+        "link": "https://www.suara.com/news/2021/05/05/133048/rocky-gerung-kpk-itu-tidak-tewas-karena-covid-19-melainkan-stupid",
+        "original": "https://media.suara.com/pictures/970x544/2019/03/19/41541-rocky-gerung-suaracomali-achmad.jpg",
+        "is_product": false
+      },
+      {
+        "position": 30,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFfA8I5-hnFS9QM2cRIzYVfF3fjZXOD7EWEw&usqp=CAU",
+        "source": "viva.co.id",
+        "title": "Serang Anies, Rocky Gerung: PSI Nebeng Cari Panggung",
+        "link": "https://www.viva.co.id/berita/politik/1406912-serang-anies-rocky-gerung-psi-nebeng-cari-panggung",
+        "original": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/09/11/613ca77e3bc22-rocky-gerung_665_374.jpg",
+        "is_product": false
+      },
+      {
+        "position": 31,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMKrWy7_RBFrFiMqpa1Tekj9zUsHmw506k5w&usqp=CAU",
+        "source": "youtube.com",
+        "title": "PANGGIL SAJA \"MUHAMMAD ROCKY GERUNG\" - YouTube",
+        "link": "https://www.youtube.com/watch?v=V9LDTNSUJ9U",
+        "original": "https://i.ytimg.com/vi/V9LDTNSUJ9U/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 32,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_BcaU8OUpxty3f5P-qlvkk1U-_CoKdW_jhw&usqp=CAU",
+        "source": "cnnindonesia.com",
+        "title": "Rocky Gerung Sebut Diskusi soal Khilafah Tak Bertentangan Konstitusi",
+        "link": "https://www.cnnindonesia.com/nasional/20220302132029-12-765891/rocky-gerung-sebut-diskusi-soal-khilafah-tak-bertentangan-konstitusi",
+        "original": "https://akcdn.detik.net.id/visual/2018/10/20/c06b6884-42fc-4986-84bf-978fb04572d7_169.jpeg?w=650",
+        "is_product": false
+      },
+      {
+        "position": 33,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6V7OSEiiMRzwyaA6nSjb1kx4DYIj85-98w&usqp=CAU",
+        "source": "mediaindonesia.com",
+        "title": "Relawan Jokowi Nilai Pola Pikir Rocky Gerung Delusif Bermotif Kebencian",
+        "link": "https://mediaindonesia.com/politik-dan-hukum/440641/relawan-jokowi-nilai-pola-pikir-rocky-gerung-delusif-bermotif-kebencian",
+        "original": "https://disk.mediaindonesia.com/thumbs/600x400/news/2021/10/2df89b29b06f11cade3beb818adac323.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 34,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThqhggGG8p1T49Xr-WP_j8NeFdn4TsWL2rPg&usqp=CAU",
+        "source": "jakarta.bisnis.com",
+        "title": "Rocky Gerung: Interpelasi Soal Formula E Pesanan Oligarki - Jakarta -  Bisnis.com",
+        "link": "https://jakarta.bisnis.com/read/20210830/77/1435493/rocky-gerung-interpelasi-soal-formula-e-pesanan-oligarki",
+        "original": "https://images.bisnis-cdn.com/posts/2021/08/30/1435493/gerung050319.jpg",
+        "is_product": false
+      },
+      {
+        "position": 35,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmWeB8v1By1eHqjaTCQKu4VrvzEZCi87AYg&usqp=CAU",
+        "source": "philosophy.fib.ui.ac.id",
+        "title": "Rocky Gerung, SS – Departemen Filsafat",
+        "link": "https://philosophy.fib.ui.ac.id/people/rocky-gerung",
+        "original": "https://philosophy.fib.ui.ac.id/wp-content/uploads/2016/05/rocky-gerung-e1464260314781.jpg",
+        "is_product": false
+      },
+      {
+        "position": 36,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZliVf5fJcvPA9G2LZlqNrJoU-Poh1kapTg&usqp=CAU",
+        "source": "metro.tempo.co",
+        "title": "Disebut Beli Tanah dari Terpidana, Rocky Gerung: Bos Sentul City pun  Dipidana - Metro Tempo.co",
+        "link": "https://metro.tempo.co/read/1506659/disebut-beli-tanah-dari-terpidana-rocky-gerung-bos-sentul-city-pun-dipidana",
+        "original": "https://statik.tempo.co/data/2019/12/05/id_894896/894896_720.jpg",
+        "is_product": false
+      },
+      {
+        "position": 37,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbGfy-KUCwSapGTtgQ6RxxyHVt0Tbx3zl3-g&usqp=CAU",
+        "source": "youtube.com",
+        "title": "12 Kali Rocky Gerung Dilaporkan Ke Polisi, Bukti Tak Ada Intervensi Jokowi  - ROSI - YouTube",
+        "link": "https://www.youtube.com/watch?v=S4n_6O3c5pQ",
+        "original": "https://i.ytimg.com/vi/S4n_6O3c5pQ/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 38,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU_DCvrXsI-5ibVl03x7U6LaVRwzrNShJ9Fw&usqp=CAU",
+        "source": "publika.rmol.id",
+        "title": "Rocky Gerung dan Perlawanan kepada Oligarki",
+        "link": "https://publika.rmol.id/read/2021/09/16/504596/rocky-gerung-dan-perlawanan-kepada-oligarki",
+        "original": "https://rmol.id/images/berita/normal/2021/09/182791_03202316092021_Rocky_Gerung_Radhar_Tri_baskoro.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 39,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCibmDKX2JfZm2SrN8OdEmaheAsyhfwvvfw&usqp=CAU",
+        "source": "poskota.co.id",
+        "title": "Rocky Gerung: Utang Jokowi Limpahan dari Utang SBY, Tapi Utang SBY Limpahan  dari Megawati! - poskota.co.id",
+        "link": "https://poskota.co.id/2021/10/28/rocky-gerung-utang-jokowi-limpahan-dari-utang-sby-tapi-utang-sby-limpahan-dari-megawati",
+        "original": "https://gallery.poskota.co.id/storage/Foto/Foto_20211028_130418_s1Q.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 40,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEkVwqj7pGYSlsHHAd9fQ-3n-4ulEBJlQ9A&usqp=CAU",
+        "source": "nasional.sindonews.com",
+        "title": "Rocky Gerung: Kalau Presiden Tak Setuju Pemilu Ditunda Mestinya Luhut  Di-reshuffle",
+        "link": "https://nasional.sindonews.com/read/716205/12/rocky-gerung-kalau-presiden-tak-setuju-pemilu-ditunda-mestinya-luhut-di-reshuffle-1647561795",
+        "original": "https://pict-c.sindonews.net/dyn/480/pena/news/2022/03/18/12/716205/rocky-gerung-kalau-presiden-tak-setuju-pemilu-ditunda-mestinya-luhut-direshuffle-pvc.jpg",
+        "is_product": false
+      },
+      {
+        "position": 41,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKXKsvz98Ex7ET_cauyvSsz8PC4W0dkkX18Q&usqp=CAU",
+        "source": "viva.co.id",
+        "title": "Damai dengan Sentul City, Status Rumah Rocky Gerung Masih Tanda Tanya",
+        "link": "https://www.viva.co.id/berita/nasional/1413141-damai-dengan-sentul-city-status-rumah-rocky-gerung-masih-tanda-tanya",
+        "original": "https://thumb.viva.co.id/media/frontend/thumbs3/2021/09/09/6139b750065dd-rocky-gerung_665_374.jpg",
+        "is_product": false
+      },
+      {
+        "position": 42,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROn8YpA_PteQVWVUSEBt_bS5EW9ldl4GtEjA&usqp=CAU",
+        "source": "cnnindonesia.com",
+        "title": "Rocky Gerung akan Gugat Sentul City Rp1 T soal Sengketa Lahan",
+        "link": "https://www.cnnindonesia.com/nasional/20210910203601-12-692763/rocky-gerung-akan-gugat-sentul-city-rp1-t-soal-sengketa-lahan",
+        "original": "https://akcdn.detik.net.id/visual/2019/01/09/e2b51a70-1808-42e4-aeb8-869cfa81a1a4_169.jpeg?w=650",
+        "is_product": false
+      },
+      {
+        "position": 43,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2lU4NHAWQz1q14Tx63iwsBkOemnVgfbCVg&usqp=CAU",
+        "source": "jawapos.com",
+        "title": "Rocky Gerung: Berpikir Radikal Adalah Tugas Seorang Pendidik",
+        "link": "https://www.jawapos.com/nasional/pendidikan/02/05/2018/rocky-gerung-berpikir-radikal-adalah-tugas-seorang-pendidik/",
+        "original": "https://cdn-asset.jawapos.com/wp-content/uploads/2019/01/rocky-gerung-berpikir-radikal-adalah-tugas-seorang-pendidik_m_1525263975_209279-560x352.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 44,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXRjC3m3nvkUIabI5oBlA5sReRmbDHsPWqg&usqp=CAU",
+        "source": "kominfo.go.id",
+        "title": "Kementerian Komunikasi dan Informatika",
+        "link": "https://kominfo.go.id/content/detail/24734/disinformasi-ustadz-rocky-gerung-al-monasi/0/laporan_isu_hoaks",
+        "original": "https://web.kominfo.go.id/sites/default/files/kominfo-cekhoaks-stophoaks-rocky-gerung-almonasi.jpg",
+        "is_product": false
+      },
+      {
+        "position": 45,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTO1JfcQYujwlVXAXCEgybtxyL9fwxczIG6g&usqp=CAU",
+        "source": "nasional.tempo.co",
+        "title": "Rocky Gerung Ajak Selamatkan Generasi Penerus dari Kedunguan - Nasional  Tempo.co",
+        "link": "https://nasional.tempo.co/read/1527637/rocky-gerung-ajak-selamatkan-generasi-penerus-dari-kedunguan",
+        "original": "https://statik.tempo.co/data/2019/12/05/id_894898/894898_720.jpg",
+        "is_product": false
+      },
+      {
+        "position": 46,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXoCqoMvdzbmYLA1qDSdthPKDj4vc4XHPj4Q&usqp=CAU",
+        "source": "m.industry.co.id",
+        "title": "Rocky Gerung Diminta Tinggalkan Rumahnya dalam Waktu…",
+        "link": "https://m.industry.co.id/read/92856/rocky-gerung-diminta-tinggalkan-rumahnya-dalam-waktu-7x24-jam-nekat-nolak-bakal-dirobohkan",
+        "original": "https://garuda.industry.co.id/uploads/berita/detail/50619.jpg",
+        "is_product": false
+      },
+      {
+        "position": 47,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBDg0V59bZrrk32W7wItgS5Ry7eNwK6yvTKQ&usqp=CAU",
+        "source": "liputan6.com",
+        "title": "Sengketa Lahan, Rocky Gerung dan Warga Adukan Sentul City ke Komnas HAM dan  Ombudsman - News Liputan6.com",
+        "link": "https://www.liputan6.com/news/read/4669706/sengketa-lahan-rocky-gerung-dan-warga-adukan-sentul-city-ke-komnas-ham-dan-ombudsman",
+        "original": "https://cdn0-production-images-kly.akamaized.net/C1-cAaUz5nF6x-oTCDQVwOtMjU8=/1200x900/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2785513/original/008068600_1555999010-Tompi-dan-Rocky-Gerung-Menjadi-Saksi-Persidangan-Ratna-Sarumpaet6.jpg",
+        "is_product": false
+      },
+      {
+        "position": 48,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREqX3Xg-GuRoS0tyAi6Y9IZvXmDBB-7Kt5ZA&usqp=CAU",
+        "source": "m.merdeka.com",
+        "title": "Berada di Atas Tebing, Ini 8 Potret Rumah Rocky Gerung Dikelilingi  Pohon-pohon Besar | merdeka.com",
+        "link": "https://m.merdeka.com/trending/berada-di-atas-tebing-ini-8-potret-rumah-rocky-gerung-dikelilingi-pohon-pohon-besar.html",
+        "original": "http://klimg.com/merdeka.com/i/w/news/2020/06/09/1185298/540x270/berada-di-atas-tebing-ini-8-potret-rumah-rocky-gerung-dikelilingi-pohon-pohon-besar.jpg",
+        "is_product": false
+      },
+      {
+        "position": 49,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEz-O5DJFBPt3GxK74GSCUlv21mS8P3RdVoA&usqp=CAU",
+        "source": "pikiran-rakyat.com",
+        "title": "Rocky Gerung Dilaporkan ke Mabes Polri, Jokowi Disebut Jadi Penyebab -  Pikiran-Rakyat.com",
+        "link": "https://www.pikiran-rakyat.com/nasional/pr-013138733/rocky-gerung-dilaporkan-ke-mabes-polri-jokowi-disebut-jadi-penyebab",
+        "original": "https://assets.pikiran-rakyat.com/crop/0x29:344x287/360x192/photo/2020/09/08/2412201573.jpg",
+        "is_product": false
+      },
+      {
+        "position": 50,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLyJiBoW8_b_zUxaMa3K446bGxXWQ39ll_aA&usqp=CAU",
+        "source": "akurat.co",
+        "title": "Kata Rocky Gerung, Makin Banyak Baliho Makin Turun Elektabilitas Bu Puan",
+        "link": "https://akurat.co/kata-rocky-gerung-makin-banyak-baliho-makin-turun-elektabilitas-bu-puan",
+        "original": "https://image.akurat.co/images/uploads/images/akurat_20191204052949_ssDoVT.jpg",
+        "is_product": false
+      },
+      {
+        "position": 51,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEQbI4_8WMXIwVZuyV-WYFeLA93WQ-4kO_g&usqp=CAU",
+        "source": "news.detik.com",
+        "title": "Analisis Rocky Gerung soal Ketakutan terhadap Hantu Komunisme di Indonesia",
+        "link": "https://news.detik.com/berita/d-5755870/analisis-rocky-gerung-soal-ketakutan-terhadap-hantu-komunisme-di-indonesia",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2019/04/23/71665c46-9999-44f3-8a18-7829dc5eebf0_169.jpeg?w=1200",
+        "is_product": false
+      },
+      {
+        "position": 52,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWX8amKt_DwVHSaTCRwcHCYO4vEy5l3W8wg&usqp=CAU",
+        "source": "inews.id",
+        "title": "Penggusuran Rumah Rocky Gerung, Begini Penjelasan Sentul City",
+        "link": "https://www.inews.id/finance/bisnis/penggusuran-rumah-rocky-gerung-begini-penjelasan-sentul-city",
+        "original": "https://img.inews.co.id/media/620/files/inews_new/2019/01/31/rocky_gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 53,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDv1LjnyI-wL7pcFRI0HMLUWXvbdoapGmbSg&usqp=CAU",
+        "source": "youtube.com",
+        "title": "Skor Demokrasi di Mata Rocky Gerung & Ade Armando - ROSI - YouTube",
+        "link": "https://www.youtube.com/watch?v=dumXnmqZUxE",
+        "original": "https://i.ytimg.com/vi/dumXnmqZUxE/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 54,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL-A79SVBbs74Zwya89ONm7t5mCzVvEtKusw&usqp=CAU",
+        "source": "alinea.id",
+        "title": "Klarifikasi Rocky Gerung soal kitab suci adalah fiksi",
+        "link": "https://www.alinea.id/nasional/klarifikasi-rocky-gerung-soal-kitab-suci-adalah-fiksi-b1UxE9bll",
+        "original": "https://img.alinea.id/img/content/2018/04/25/4403/klarifikasi-rocky-gerung-soal-kitab-suci-adalah-fiksi-0PxZyveBSq.JPG",
+        "is_product": false
+      },
+      {
+        "position": 55,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVEG3loMYCep7M4pdcc3ZjJLTHHjhePnLww&usqp=CAU",
+        "source": "populis.id",
+        "title": "Singgung Jokowi, Rocky Gerung: Ngintip WA Grup, Tidak Sopan!",
+        "link": "https://populis.id/read12687/singgung-jokowi-rocky-gerung-ngintip-wa-grup-tidak-sopan",
+        "original": "https://img.populis.id/articles/archive_20220302/Rocky-Gerung-Ngapain-Presiden-Intip-Isi-WA-Grup-TNI-Polri-20220302-214629.jpg",
+        "is_product": false
+      },
+      {
+        "position": 56,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSTlgi0xhHoxV4h_D5hjFHhphJIu_pzIKrQ&usqp=CAU",
+        "source": "nasional.sindonews.com",
+        "title": "Rocky Gerung Ungkap Dua Motif di Balik Bintang Mahaputera Gatot Nurmantyo",
+        "link": "https://nasional.sindonews.com/read/221580/12/rocky-gerung-ungkap-dua-motif-di-balik-bintang-mahaputera-gatot-nurmantyo-1604589102",
+        "original": "https://pict-c.sindonews.net/dyn/620/pena/news/2020/11/05/12/221580/rocky-gerung-soal-bintang-jasa-gatot-kalau-bukan-rasa-bersalah-istana-mau-pecah-belah-euv.jpg",
+        "is_product": false
+      },
+      {
+        "position": 57,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzejjWA5GDLFllPlrebzCH28HhrdThddaZlw&usqp=CAU",
+        "source": "tribunnews.com",
+        "title": "Bicara Soal Izin FPI, Rocky Gerung Sebut Jokowi Tidak Mengerti Pancasila,  Ini Reaksi Mahfud MD - Tribunnews.com Mobile",
+        "link": "https://www.tribunnews.com/nasional/2019/12/04/bicara-soal-izin-fpi-rocky-gerung-sebut-jokowi-tidak-mengerti-pancasila-ini-reaksi-mahfud-md",
+        "original": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/rocky-gerung-menanggapi-pernyataan-mahfud-md-soal-radikal.jpg",
+        "is_product": false
+      },
+      {
+        "position": 58,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1Kt4-m2SAisHahfnsrgH1oJDrjnmfX73ZA&usqp=CAU",
+        "source": "tokopedia.com · Stok tersedia",
+        "title": "Jual Merenung Bersama ROCKY GERUNG - Kab. Bogor - Guepedia | Tokopedia",
+        "link": "https://www.tokopedia.com/guepedia/merenung-bersama-rocky-gerung",
+        "original": "https://images.tokopedia.net/img/cache/700/product-1/2020/6/21/4465949/4465949_a078da76-e511-4eb0-851c-f67aa3f6f7f5_1500_1500",
+        "is_product": true,
+        "in_stock": true
+      },
+      {
+        "position": 59,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGe8FEVe7JSksKgBJH6VvFKx8X0K-eD8o0g&usqp=CAU",
+        "source": "nasional.kontan.co.id",
+        "title": "Babak baru sengketa lahan Sentul City versus Rocky Gerung",
+        "link": "https://nasional.kontan.co.id/news/babak-baru-sengketa-lahan-sentul-city-versus-rocky-gerung",
+        "original": "https://foto.kontan.co.id/E-dtxPLiOccF98eBR-6Kg9X-NQQ=/smart/2019/02/01/1628109091p.jpg",
+        "is_product": false
+      },
+      {
+        "position": 60,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3JfiEdXahG88m1XTZp1rliHiI-SXKK46bA&usqp=CAU",
+        "source": "bbc.com",
+        "title": "Dugaan penodaan agama Rocky Gerung: 'Berdebatlah, jangan dipidanakan' - BBC  News Indonesia",
+        "link": "https://www.bbc.com/indonesia/indonesia-47053376",
+        "original": "https://ichef.bbci.co.uk/news/640/cpsprodpb/CD59/production/_105396525_c5d2b2e0-8710-4ca5-bc21-cce8bd4829b2.jpg",
+        "is_product": false
+      },
+      {
+        "position": 61,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9PBXI49PPWfYSqmp8k8DECYtBioFdmzBtQ&usqp=CAU",
+        "source": "metro.tempo.co",
+        "title": "Sidang Ratna Sarumpaet, Rocky Gerung Jengkel Karena Jadi Korban - Metro  Tempo.co",
+        "link": "https://metro.tempo.co/read/1198443/sidang-ratna-sarumpaet-rocky-gerung-jengkel-karena-jadi-korban",
+        "original": "https://statik.tempo.co/data/2019/04/23/id_836483/836483_720.jpg",
+        "is_product": false
+      },
+      {
+        "position": 62,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aEeznJ6XzppqC3o-lMUDv1jgPhH1uu-1VA&usqp=CAU",
+        "source": "tokopedia.com · Stok tersedia",
+        "title": "Jual Buku Akal Pikiran Rocky Gerung Edisi Non Tanda Tangan - Kota Metro -  Toko Sai Wawai | Tokopedia",
+        "link": "https://www.tokopedia.com/toko-sai-wawai/buku-akal-pikiran-rocky-gerung-edisi-non-tanda-tangan",
+        "original": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/3/12/5e590a5e-7939-4d33-826c-cb34ebc17742.jpg",
+        "is_product": true,
+        "in_stock": true
+      },
+      {
+        "position": 63,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhjdXBRxE7j2A5SIp0UUwKyxVEkcE2uAE3ZA&usqp=CAU",
+        "source": "viva.co.id",
+        "title": "Rocky Gerung Akan Gugat Sentul City Rp1 Triliun dan Rp1 Rupiah",
+        "link": "https://www.viva.co.id/berita/nasional/1403448-rocky-gerung-akan-gugat-sentul-city-rp1-triliun-dan-rp1-rupiah",
+        "original": "https://thumb.viva.co.id/media/frontend/thumbs3/2019/05/02/5cc9d754300e2-pakar-filsafat-dan-politik-rocky-gerung_665_374.jpg",
+        "is_product": false
+      },
+      {
+        "position": 64,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEL4KF-17SkYzfHNNxrfx9dbX_HVcBtp6lqA&usqp=CAU",
+        "source": "news.detik.com",
+        "title": "Konten YouTube Rocky Gerung dkk soal Romo Benny Dipolisikan",
+        "link": "https://news.detik.com/berita/d-5836358/konten-youtube-rocky-gerung-dkk-soal-romo-benny-dipolisikan",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2021/10/15/rocky-gerung-foto-tangkapan-layar-youtube-kedaikopi_169.png?w=700&q=90",
+        "is_product": false
+      },
+      {
+        "position": 65,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoj6-oZ3BaTYTvWEvjD4TccMYX9I998AXuw&usqp=CAU",
+        "source": "wartaekonomi.co.id",
+        "title": "Densus 88 Siapkan Alat Pengukur Radikalisme, Omongan Rocky Gerung Nyelekit:  Pawang Radikalisme...",
+        "link": "https://wartaekonomi.co.id/read401569/densus-88-siapkan-alat-pengukur-radikalisme-omongan-rocky-gerung-nyelekit-pawang-radikalisme",
+        "original": "https://foto.wartaekonomi.co.id/files/arsip_foto_2021_06_14/rocky_gerung_120621_small.jpg",
+        "is_product": false
+      },
+      {
+        "position": 66,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS52xaNqeouHv4JgNd3Pz4VuS55otAr4ZIOqA&usqp=CAU",
+        "source": "hops.id",
+        "title": "Rocky Gerung tanya siapa Presiden Nusantara, pemuda NTT: Pemahaman Anda  dangkal sekali! - Hops Id",
+        "link": "https://www.hops.id/trending/pr-2942561162/rocky-gerung-tanya-siapa-presiden-nusantara-pemuda-ntt-pemahaman-anda-dangkal-sekali",
+        "original": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/hops/2021/09/Rocky-Gerung.-Foto-Ist..jpg",
+        "is_product": false
+      },
+      {
+        "position": 67,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLzkRX7rm-1x7VQ_Hqj5bH_thDBr5wj_Sd0g&usqp=CAU",
+        "source": "nasional.sindonews.com",
+        "title": "Rocky Gerung: Vaksin Nusantara Itu Vaksin Oposisi",
+        "link": "https://nasional.sindonews.com/read/399798/15/rocky-gerung-vaksin-nusantara-itu-vaksin-oposisi-1618617865",
+        "original": "https://pict-c.sindonews.net/dyn/480/pena/news/2021/04/17/15/399798/rocky-gerung-vaksin-nusantara-itu-vaksin-oposisi-zur.jpg",
+        "is_product": false
+      },
+      {
+        "position": 68,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xtfAx03oN5a9DuxzS2QJ6eYtqqENJPc4YQ&usqp=CAU",
+        "source": "m.medcom.id",
+        "title": "Rocky Gerung Dilarang Tampil di TV? Ini Faktanya",
+        "link": "https://m.medcom.id/telusur/cek-fakta/VNnX0G7k-rocky-gerung-dilarang-tampil-di-tv-ini-faktanya",
+        "original": "https://cdn.medcom.id/images/library/images/rocky(1).jpg",
+        "is_product": false
+      },
+      {
+        "position": 69,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVxAPtU3cViVXvnglisuPKRT2OBcL40YMgpg&usqp=CAU",
+        "source": "poskota.co.id",
+        "title": "Rocky Gerung: Orang yang Tidak Beragama Jangan Dibenturkan dengan  Keyakinan, Itu Hanya Status di KTP! - poskota.co.id",
+        "link": "https://poskota.co.id/2021/10/25/rocky-gerung-orang-yang-tidak-beragama-jangan-dibenturkan-dengan-keyakinan-itu-hanya-status-di-ktp",
+        "original": "https://gallery.poskota.co.id/storage/Foto/Foto_20211025_105446_FiD.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 70,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKJS9Zrz2DHER7dE-heFj-lJhhfZ2rNA0Hw&usqp=CAU",
+        "source": "suara.com",
+        "title": "Rocky Gerung Bongkar 'Janji Suci' Megawati dengan Prabowo, Mengejutkan!",
+        "link": "https://www.suara.com/news/2022/03/30/200713/rocky-gerung-bongkar-janji-suci-megawati-dengan-prabowo-mengejutkan",
+        "original": "https://media.suara.com/pictures/653x366/2021/07/07/57437-pengamat-politik-dan-dosen-universitas-indonesia-rocky-gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 71,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwbOJ9QP-WuBs4RorQytFpcxzFMWk5ldvCRw&usqp=CAU",
+        "source": "sumut.indozone.id",
+        "title": "Rocky Gerung Sebut Jokowi Pro Penderitaan Rakyat: Itu yang Terjadi | Sumut  Indozone.id",
+        "link": "http://sumut.indozone.id/news/Yvsj7ZV/rocky-gerung-sebut-jokowi-pro-penderitaan-rakyat-itu-yang-terjadi",
+        "original": "https://assets.indozone.id/content/2021/08/01/Yvsj7ZV/rocky-gerung-sebut-jokowi-pro-penderitaan-rakyat-itu-yang-terjadi33_700.jpg",
+        "is_product": false
+      },
+      {
+        "position": 72,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkkdvkKSWpviJnzgThIDNRmWqo7a_NLtT68w&usqp=CAU",
+        "source": "grid.id",
+        "title": "Berita Rocky Gerung Terbaru Hari Ini - Grid.ID",
+        "link": "https://www.grid.id/tag/rocky-gerung",
+        "original": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2021/01/16/963202624.jpg",
+        "is_product": false
+      },
+      {
+        "position": 73,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjwz6nMJQtlI67V8AlBo2k95irHugclL18g&usqp=CAU",
+        "source": "liputan6.com",
+        "title": "Cek Fakta: Berdiri di Mimbar dan Pakai Peci, Benarkah Rocky Gerung Jadi  Ustad Dadakan? - Cek Fakta Liputan6.com",
+        "link": "https://www.liputan6.com/cek-fakta/read/4348992/cek-fakta-berdiri-di-mimbar-dan-pakai-peci-benarkah-rocky-gerung-jadi-ustad-dadakan",
+        "original": "https://cdn0-production-images-kly.akamaized.net/1sj0Ex8AnxcAp6emoKnWU0DS6-M=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2785514/original/009964500_1555999011-Tompi-dan-Rocky-Gerung-Menjadi-Saksi-Persidangan-Ratna-Sarumpaet7.jpg",
+        "is_product": false
+      },
+      {
+        "position": 74,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIrlesrh5TMrOuC6jwvxHqLtS2ZzcPKURolw&usqp=CAU",
+        "source": "youtube.com",
+        "title": "Istana Ingatkan Rocky Gerung Agar Hati-Hati - YouTube",
+        "link": "https://www.youtube.com/watch?v=_OivO0H082M",
+        "original": "https://i.ytimg.com/vi/_OivO0H082M/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 75,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunvmiDvhtm6oLcIuMt2H_8QVqydH-1LNt6w&usqp=CAU",
+        "source": "nasional.tempo.co",
+        "title": "Rocky Gerung: Saya Manusia Bebas. Bisa Mengkritik atau Memuji - Nasional  Tempo.co",
+        "link": "https://nasional.tempo.co/read/1280195/rocky-gerung-saya-manusia-bebas-bisa-mengkritik-atau-memuji",
+        "original": "https://statik.tempo.co/data/2019/04/23/id_836481/836481_720.jpg",
+        "is_product": false
+      },
+      {
+        "position": 76,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkdGS-qyrGjINfzMOxTMHZlSXCd2Quc9vveA&usqp=CAU",
+        "source": "fin.co.id",
+        "title": "Pemerintah Dinilai Gagal, Rocky Gerung: Seharusnya Istana Lakukan Pengakuan  Dosa ke Publik",
+        "link": "https://fin.co.id/read/92498/Pemerintah-Dinilai-Gagal-Rocky-Gerung-Seharusnya-Istana-Lakukan-Pengakuan-Dosa-ke-Publik",
+        "original": "https://cms.fin.co.id/uploads/large/ab3dc55724710582ffa1757015301115.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 77,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3OgXQ4ZuX0CITEr5BsJCQJRqRmHuZabQbg&usqp=CAU",
+        "source": "megapolitan.kompas.com",
+        "title": "Saat Rocky Gerung Dibawa Munarman Jadi Ahli di Sidang Terorisme, Sentil  Jokowi Soal Grup Whatsapp TNI Halaman all - Kompas.com",
+        "link": "https://megapolitan.kompas.com/read/2022/03/03/08582711/saat-rocky-gerung-dibawa-munarman-jadi-ahli-di-sidang-terorisme-sentil?page=all",
+        "original": "https://asset.kompas.com/crops/ok0F7PZ58WqUHrBj7y3GKqIs8Po=/0x0:0x0/750x500/data/photo/2022/03/02/621f4e33817bd.jpg",
+        "is_product": false
+      },
+      {
+        "position": 78,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZSTQCFOXsibL0-fsENhjap2tp0120-6StrA&usqp=CAU",
+        "source": "depok.pikiran-rakyat.com",
+        "title": "Rocky Gerung Bantah Berdamai dengan Sentul City soal Tanah: Tak Jadi  Digusur karena Saya Ngotot bahwa... - Pikiran Rakyat Depok",
+        "link": "https://depok.pikiran-rakyat.com/nasional/pr-092894166/rocky-gerung-bantah-berdamai-dengan-sentul-city-soal-tanah-tak-jadi-digusur-karena-saya-ngotot-bahwa",
+        "original": "https://assets.pikiran-rakyat.com/crop/23x37:689x420/x/photo/2021/06/16/2118938667.png",
+        "is_product": false
+      },
+      {
+        "position": 79,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhCtrB47a8mU7gnXEwyXra5nYYKoX6zm7ZA&usqp=CAU",
+        "source": "news.detik.com",
+        "title": "Haris Azhar: Damai Rocky Gerung-Sentul City Konkretnya Belum Kelihatan",
+        "link": "https://news.detik.com/berita/d-5764564/haris-azhar-damai-rocky-gerung-sentul-city-konkretnya-belum-kelihatan",
+        "original": "https://awsimages.detik.net.id/community/media/visual/2018/04/20/c1b8fdf7-f7d7-45bb-9214-ab8856efe60d_169.jpeg?w=700&q=90",
+        "is_product": false
+      },
+      {
+        "position": 80,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99h8v9guIDEIlJzD0tQ96e6X1mlVAhaYcmw&usqp=CAU",
+        "source": "republika.co.id",
+        "title": "Kapolri Seret Rocky Gerung ke Penjara? Cek Faktanya | Republika Online",
+        "link": "https://www.republika.co.id/berita/qp0qz2440/kapolri-seret-rocky-gerung-ke-penjara-cek-faktanya",
+        "original": "https://static.republika.co.id/uploads/images/inpicture_slide/tangkapan-layar-hoaks-yang-menyatakan-kapolri-seret-rocky-gerung_210224124830-196.jpg",
+        "is_product": false
+      },
+      {
+        "position": 81,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXDXwutSwQgN3NPV9HachP6FgAJF61vHV3dw&usqp=CAU",
+        "source": "fajar.co.id",
+        "title": "Setelah Ketua Relawan JoMan, Kini Rocky Gerung Jadi Saksi Meringankan untuk  Munarman - FAJAR",
+        "link": "https://fajar.co.id/2022/03/02/setelah-ketua-relawan-joman-kini-rocky-gerung-jadi-saksi-meringankan-untuk-munarman/",
+        "original": "https://fajar.co.id/wp-content/uploads/2021/12/rocky-gerung-45734.jpg",
+        "is_product": false
+      },
+      {
+        "position": 82,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuObcz8lXjS__knzHRHZ6eCS2NQ_D-MLIW8Q&usqp=CAU",
+        "source": "populis.id",
+        "title": "Sebut Jokowi dan PDIP Tebar Islamophobia, Nggak Pakai Lama, Rocky Gerung  Langsung Babak Belur Diseruduk Banteng",
+        "link": "https://populis.id/read10883/sebut-jokowi-dan-pdip-tebar-islamophobia-nggak-pakai-lama-rocky-gerung-langsung-babak-belur-diseruduk-banteng",
+        "original": "https://img.populis.id/articles/archive_20220207/Arteria-Dahlan-Melanggar-Etik-Lebih-Buruk-dari-Pidana-20220207-112500.jpg",
+        "is_product": false
+      },
+      {
+        "position": 83,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtIo7xXYONWlON-LKsuGBOEiZBn0A_mIyig&usqp=CAU",
+        "source": "rmolsumsel.id",
+        "title": "Pihak Rocky Gerung Setuju Ajakan Sentul City Untuk Berdamai - RMOLSUMSEL.ID",
+        "link": "https://www.rmolsumsel.id/pihak-rocky-gerung-setuju-ajakan-sentul-city-untuk-berdamai",
+        "original": "https://www.rmolsumsel.id/uploads/images/2021/09/image_750x_613f4fd56c6e9.jpg",
+        "is_product": false
+      },
+      {
+        "position": 84,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWGN0xT_l7hs2LKSC5uz5F4z3GRY5uHWyYA&usqp=CAU",
+        "source": "m.industry.co.id",
+        "title": "Rocky Gerung Pilih Jomblo Selama 61 Tahun, Alasannya…",
+        "link": "https://m.industry.co.id/read/64770/rocky-gerung-pilih-jomblo-selama-61-tahun-alasannya-bikin-baper",
+        "original": "http://garuda.industry.co.id/uploads/berita/detail/32398.jpeg",
+        "is_product": false
+      },
+      {
+        "position": 85,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAIvRWaYd01RC90e0u4ozV7emLsH9AwdENA&usqp=CAU",
+        "source": "cnnindonesia.com",
+        "title": "Banyak Korban, Rocky Gerung Juga Siapkan Gugatan Class Action",
+        "link": "https://www.cnnindonesia.com/nasional/20210913160443-20-693616/banyak-korban-rocky-gerung-juga-siapkan-gugatan-class-action",
+        "original": "https://akcdn.detik.net.id/visual/2019/01/09/293bb93e-55dc-4104-94c8-b83e3321ced8_169.jpeg?w=650",
+        "is_product": false
+      },
+      {
+        "position": 86,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHYpvZiXfkC08d9wc1AbButH0dj3Q3FfgDmA&usqp=CAU",
+        "source": "suara.com",
+        "title": "Bikin Najwa Heran, Rocky Gerung Beri Nilai A Minus Buat Jokowi - Maruf",
+        "link": "https://www.suara.com/news/2020/10/22/074604/bikin-najwa-heran-rocky-gerung-beri-nilai-a-minus-buat-jokowi-maruf",
+        "original": "https://media.suara.com/pictures/970x544/2020/10/22/11318-rocky-gerung-di-mata-najwa.jpg",
+        "is_product": false
+      },
+      {
+        "position": 87,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhOxztfYwLrthmEj8Et2QkRODsz2xQXIZAw&usqp=CAU",
+        "source": "tribunnews.com",
+        "title": "Rumahnya Terancam Digusur, Rocky Gerung: Kalau Saya Gugat Balik, Saya Gugat  Rp 1 Triliun - Tribunnews.com Mobile",
+        "link": "https://www.tribunnews.com/nasional/2021/09/10/rumahnya-terancam-digusur-rocky-gerung-kalau-saya-gugat-balik-saya-gugat-rp-1-triliun",
+        "original": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/rocky-gerung-hunian.jpg",
+        "is_product": false
+      },
+      {
+        "position": 88,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLGDH6zHBgCS-5LpmnjeVOuxCONKIkxEu7Q&usqp=CAU",
+        "source": "nasional.sindonews.com",
+        "title": "Rumah Mau Digusur Sentul City, Rocky Gerung Ditawari 16 Vila hingga  Apartemen",
+        "link": "https://nasional.sindonews.com/read/540362/15/rumah-mau-digusur-sentul-city-rocky-gerung-ditawari-16-vila-hingga-apartemen-1631606976",
+        "original": "https://pict-c.sindonews.net/dyn/620/pena/news/2021/09/14/15/540362/rumah-mau-digusur-sentul-city-rocky-gerung-ditawari-16-vila-hingga-apartemen-okd.jpg",
+        "is_product": false
+      },
+      {
+        "position": 89,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNzvS7YYo_MboEbTMnwhmWTTOdCxGPP-Mfg&usqp=CAU",
+        "source": "antaranews.com",
+        "title": "Rocky Gerung: Guru adalah rahim bangsa - ANTARA News",
+        "link": "https://www.antaranews.com/berita/1180551/rocky-gerung-guru-adalah-rahim-bangsa",
+        "original": "https://cdn.antaranews.com/cache/800x533/2019/11/26/PSX_20191126_122556.jpg",
+        "is_product": false
+      },
+      {
+        "position": 90,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDFF1ehg36j32PLkWtz4xT3z6On8_brzzCg&usqp=CAU",
+        "source": "rm.id",
+        "title": "Rocky Gerung Lagi Ngehits Diorbitkan TV-nya Karni, Dikuliti Di Wahid Hasyim",
+        "link": "https://rm.id/baca-berita/nasional/4574/rocky-gerung-lagi-ngehits-diorbitkan-tvnya-karni-dikuliti-di-wahid-hasyim",
+        "original": "https://rm.id/config/thumbnail.php?file=../images/berita/med/rocky-gerung-lagi-ngehits-diorbitkan-tvnya-karni-dikuliti-di-wahid-hasyim_4574.jpg&width=739&height=385",
+        "is_product": false
+      },
+      {
+        "position": 91,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnoPCJkx4lDIdyIDak6BN4wy1CzZ3L50RtAg&usqp=CAU",
+        "source": "youtube.com",
+        "title": "Rocky Gerung Tuding Jokowi Tak Paham Demokrasi, Ini Kata Ade Armando - ROSI  - YouTube",
+        "link": "https://www.youtube.com/watch?v=rhaGjlaSfjk",
+        "original": "https://i.ytimg.com/vi/rhaGjlaSfjk/maxresdefault.jpg",
+        "is_product": true
+      },
+      {
+        "position": 92,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8hApuW8xjPVZOQ8p_loC3kcaXtqXP-P6M3Q&usqp=CAU",
+        "source": "genpi.co",
+        "title": "Rocky Gerung Sebut Jokowi Tak Tahu Kinerja Para Menteri",
+        "link": "https://www.genpi.co/polhukam/173523/rocky-gerung-sebut-jokowi-tak-tahu-kinerja-para-menteri",
+        "original": "https://images.genpi.co/resize/320x180-100/uploads/arsip/normal/2022/03/28/rocky-gerung-foto-jpnngenpico-8cxt.webp",
+        "is_product": false
+      },
+      {
+        "position": 93,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ97-JwjFtBVthVrL3x1p6yLuvNY-tE07fcpg&usqp=CAU",
+        "source": "nasional.okezone.com",
+        "title": "4 Fakta Pertemuan Amien Rais-Gatot Nurmantyo di Rumah Rocky Gerung, Bahas  Apa? : Okezone Nasional",
+        "link": "https://nasional.okezone.com/read/2021/09/24/337/2476144/4-fakta-pertemuan-amien-rais-gatot-nurmantyo-di-rumah-rocky-gerung-bahas-apa",
+        "original": "https://img.okezone.com/content/2021/09/24/337/2476144/4-fakta-pertemuan-amien-rais-gatot-nurmantyo-di-rumah-rocky-gerung-bahas-apa-O8gdO2waWn.jpg",
+        "is_product": false
+      },
+      {
+        "position": 94,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqRe_1B-Y6FbtKK3UoV05ZZJGdKyUCxAXyw&usqp=CAU",
+        "source": "republika.co.id",
+        "title": "Kisah Seorang Teman: Rocky Gerung yang Saya Ketahui | Republika Online",
+        "link": "https://www.republika.co.id/berita/p7212l385/kisah-seorang-teman-rocky-gerung-yang-saya-ketahui",
+        "original": "https://static.republika.co.id/uploads/images/inpicture_slide/lecturer-in-the-department-of-philosophy-faculty-of-humanities-_170118161301-962.jpg",
+        "is_product": false
+      },
+      {
+        "position": 95,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9gbLfNQjA3K4dCDk2QECvRrfwjVqP4Iq3g&usqp=CAU",
+        "source": "rmoljabar.id",
+        "title": "Bukan Hanya Rocky Gerung, Rumah 90 KK Terancam Digusur PT Sentul City -  RMOLJABAR.ID",
+        "link": "https://www.rmoljabar.id/bukan-hanya-rocky-gerung-rumah-90-kk-terancam-digusur-pt-sentul-city",
+        "original": "https://www.rmoljabar.id/uploads/images/2021/09/image_750x_613f0863f2eff.jpg",
+        "is_product": false
+      },
+      {
+        "position": 96,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrp7lptyEYOhYlZKPJEUsQeRaMA9L2HPvuOA&usqp=CAU",
+        "source": "populis.id",
+        "title": "Bung Rocky Gerung Siap Nyapres! Asalkan...",
+        "link": "https://populis.id/read4699/bung-rocky-gerung-siap-nyapres-asalkan",
+        "original": "https://populis.id/data/images/articles/archive_20210702/rocky_gerung_121023.webp",
+        "is_product": false
+      },
+      {
+        "position": 97,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShqaz3Aw1X8gR0bIelZf_VHKZxAwubqz1hw&usqp=CAU",
+        "source": "m.jpnn.com",
+        "title": "Rocky Gerung Tuding Jokowi Ingin Terlihat Seperti Jagoan dan Penyelamat  Para Penyidik KPK - JPNN.com Mobile",
+        "link": "https://m.jpnn.com/news/rocky-gerung-tuding-jokowi-ingin-terlihat-seperti-jagoan-dan-penyelamat-para-penyidik-kpk",
+        "original": "https://image.jpnn.com/resize/1200x800-80/arsip/watermark/2019/12/05/rocky-gerung-foto-ricardojpnn-41.jpg",
+        "is_product": false
+      },
+      {
+        "position": 98,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXLQdqVQvWpH7yuEXIuw3Z3N8vbk3jPXtJQ&usqp=CAU",
+        "source": "tirto.id",
+        "title": "Di Balik Pernyataan 'UI Dungu' oleh Rocky Gerung",
+        "link": "https://tirto.id/di-balik-pernyataan-ui-dungu-oleh-rocky-gerung-cJcq",
+        "original": "https://mmc.tirto.id/image/otf/1024x535/2018/04/12/rocky-gerung.jpg",
+        "is_product": false
+      },
+      {
+        "position": 99,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRywv7M2ZyDfBsSe6Uh_2oUtglaBxlpIS4QA&usqp=CAU",
+        "source": "sinpo.id",
+        "title": "Rocky Gerung-Margarito Kamis Dukung Partai Gelora Gugat Preshold Ke MK",
+        "link": "https://sinpo.id/detail/24482/rocky-gerung-margarito-kamis-dukung-partai-gelora-gugat-preshold-ke-mk",
+        "original": "https://sinpo.id/storage/2021/12/rocky-gerung--margarito-kamis-dan-rizal-ramli-meng_30-12-21-11-56.jpg",
+        "is_product": false
+      },
+      {
+        "position": 100,
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYMaAmnPCnL6VmzEL0a-COi3GjRmbpAd3ig&usqp=CAU",
+        "source": "kabar24.bisnis.com",
+        "title": "Rocky Gerung : Video Jokowi Kehabisan Obat di Apotik Bisa Bikin Orang  Pesimis - Kabar24 Bisnis.com",
+        "link": "https://kabar24.bisnis.com/read/20210725/15/1421411/rocky-gerung-video-jokowi-kehabisan-obat-di-apotik-bisa-bikin-orang-pesimis",
+        "original": "https://images.bisnis-cdn.com/posts/2021/07/25/1421411/rocky-gerung.jpg",
+        "is_product": false
+      }
+    ]
+  }
